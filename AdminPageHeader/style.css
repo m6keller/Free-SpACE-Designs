@@ -1,0 +1,142 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "kaneda-gothic", sans-serif;
+  scroll-behavior: smooth;
+  background-color: #0a1723;
+}
+
+.h1 {
+  background:transparent;
+}
+
+.h2 {
+  background:transparent;
+}
+
+.rectangle {
+  background-color: #ad9742;
+  border: 60px solid #ad9742;
+  padding: 10px;
+}
+
+.header {
+  color: white;
+  background: transparent;
+  width: 100%;
+  float: left;
+  text-align: left;
+  font-weight: 700;
+  font-size: 80px;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  margin: auto;
+}
+
+.sub-header {
+  color: white;
+  background-color: transparent;
+  float: left;
+  text-align: left;
+  font-weight: 400;
+  font-size: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: centre;
+  align-items: center;
+  margin: auto;
+  position: absolute;
+  top: 105px;
+  left: 20px;
+}
+
+.checkboxesA {
+  color: white;
+  font-weight: 500;
+  margin: auto;
+  margin: auto;
+  line-height: 40pt;
+  font-size: 40px;
+  top: 150px;
+  left: 20px;
+  position: absolute;
+}
+
+.checkboxesB {
+  color: white;
+  margin: auto;
+  font-size: larger;
+  margin: auto;
+  line-height: 40pt;
+  font-size: 40px;
+  top: 150px;
+  left: 200px;
+  position: absolute;
+}
+
+.checkboxesC {
+  color: white;
+  margin: auto;
+  font-size: larger;
+  margin: auto;
+  line-height: 40pt;
+  font-size: 40px;
+  top: 150px;
+  left: 380px;
+  position: absolute;
+}
+
+.logo {
+  width: 150px;
+  border-radius: 10px;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  background: transparent;
+}
+
+.catchphrase {
+  width: 400px;
+  border-radius: 10px;
+  position: absolute;
+  bottom: 120px;
+  right: 120px
+}
+
+
+/*.participant-page {
+  color: white;
+  float: center;
+  text-align: bottom;
+  font-weight: 400;
+  bottom: 50px;
+  left: 20px;
+  position: absolute;
+
+  width: 10;
+  background-color: #ad9742;
+  border: 3px solid #ad9742;
+  padding: 10px;
+  border-radius: 10px;
+}*/
+
+/*.submit {
+  color: white;
+  text-shadow: 0px 0px 0px #0a1723;
+  -webkit-text-fill-color: transparent;
+  float: center;
+  text-align: bottom;
+  font-weight: 400;
+  bottom: 100px;
+  left: 20px;
+  position: absolute;
+
+  width: 10;
+  border: 3px solid #ad9742;
+  background-color: #ad9742;
+  padding: 2px;
+  border-radius: 10px;
+}*/
+/* #bbad41 - other yellow
